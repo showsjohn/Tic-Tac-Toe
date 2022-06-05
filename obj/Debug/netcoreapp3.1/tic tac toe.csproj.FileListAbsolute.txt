@@ -1,0 +1,14 @@
+C:\Users\shows\source\repos\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.exe
+C:\Users\shows\source\repos\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.deps.json
+C:\Users\shows\source\repos\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.runtimeconfig.json
+C:\Users\shows\source\repos\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.runtimeconfig.dev.json
+C:\Users\shows\source\repos\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.dll
+C:\Users\shows\source\repos\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.pdb
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfoInputs.cache
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfo.cs
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.dll
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.pdb
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.genruntimeconfig.cache
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.csproj.AssemblyReference.cache
+C:\Users\shows\source\repos\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
